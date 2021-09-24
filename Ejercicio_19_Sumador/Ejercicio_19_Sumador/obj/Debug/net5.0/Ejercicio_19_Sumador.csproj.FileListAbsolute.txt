@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\bin\Debug\net5.0\Ejercicio_19_Sumador.exe
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\bin\Debug\net5.0\Ejercicio_19_Sumador.deps.json
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\bin\Debug\net5.0\Ejercicio_19_Sumador.runtimeconfig.json
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\bin\Debug\net5.0\Ejercicio_19_Sumador.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\bin\Debug\net5.0\Ejercicio_19_Sumador.dll
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\bin\Debug\net5.0\ref\Ejercicio_19_Sumador.dll
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\bin\Debug\net5.0\Ejercicio_19_Sumador.pdb
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\Ejercicio_19_Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\Ejercicio_19_Sumador.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\Ejercicio_19_Sumador.AssemblyInfo.cs
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\Ejercicio_19_Sumador.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\Ejercicio_19_Sumador.dll
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\ref\Ejercicio_19_Sumador.dll
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\Ejercicio_19_Sumador.pdb
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\Ejercicio_19_Sumador.genruntimeconfig.cache
+C:\Users\andre\source\repos\Ejercicio_19_Sumador\Ejercicio_19_Sumador\obj\Debug\net5.0\Ejercicio_19_Sumador.csproj.AssemblyReference.cache

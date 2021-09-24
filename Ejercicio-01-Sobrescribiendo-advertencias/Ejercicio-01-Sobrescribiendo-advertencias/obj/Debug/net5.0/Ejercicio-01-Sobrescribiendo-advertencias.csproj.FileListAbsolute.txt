@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.AssemblyInfo.cs
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\bin\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.exe
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\bin\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.deps.json
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\bin\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.runtimeconfig.json
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\bin\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\bin\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.dll
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\bin\Debug\net5.0\ref\Ejercicio-01-Sobrescribiendo-advertencias.dll
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\bin\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.pdb
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.dll
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\ref\Ejercicio-01-Sobrescribiendo-advertencias.dll
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.pdb
+C:\Users\andre\source\repos\Ejercicio-01-Sobrescribiendo-advertencias\Ejercicio-01-Sobrescribiendo-advertencias\obj\Debug\net5.0\Ejercicio-01-Sobrescribiendo-advertencias.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\bin\Debug\net5.0\Billetes.exe
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\bin\Debug\net5.0\Billetes.deps.json
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\bin\Debug\net5.0\Billetes.runtimeconfig.json
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\bin\Debug\net5.0\Billetes.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\bin\Debug\net5.0\Billetes.dll
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\bin\Debug\net5.0\ref\Billetes.dll
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\bin\Debug\net5.0\Billetes.pdb
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\Billetes.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\Billetes.AssemblyInfo.cs
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\Billetes.dll
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\ref\Billetes.dll
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\Billetes.pdb
+C:\Users\andre\source\repos\Ejercicio_____20\Ejercicio_____20\obj\Debug\net5.0\Billetes.genruntimeconfig.cache
