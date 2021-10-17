@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v5.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Entidades/1.0.0": {
+        "runtime": {
+          "Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> f113d24e9a85b79fb19b5978cb951a85bd68363d
 }

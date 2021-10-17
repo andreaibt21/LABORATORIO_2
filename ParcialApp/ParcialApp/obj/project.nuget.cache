@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "4LzwYhuUb4+Ji2JhaDX5+j0qfM25FBUc6PeBpLx/lvTz8gcGXro6ltbhraJK4QQBn2+8sG88JnK3n+PUtLxcQg==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ParcialApp\\ParcialApp\\Entidades.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "4LzwYhuUb4+Ji2JhaDX5+j0qfM25FBUc6PeBpLx/lvTz8gcGXro6ltbhraJK4QQBn2+8sG88JnK3n+PUtLxcQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ParcialApp\\ParcialApp\\Entidades.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> f113d24e9a85b79fb19b5978cb951a85bd68363d
 }

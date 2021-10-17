@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
@@ -10,3 +11,17 @@ C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.cs
 C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.dll
 C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\ref\Entidades.dll
 C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.pdb
+=======
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.dll
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lenovo\source\repos\ParcialApp\ParcialApp\obj\Debug\net5.0\Entidades.pdb
+>>>>>>> f113d24e9a85b79fb19b5978cb951a85bd68363d
