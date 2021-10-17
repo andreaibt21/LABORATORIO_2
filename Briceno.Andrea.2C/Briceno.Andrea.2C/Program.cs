@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace Briceno.Andrea._2C
+
+namespace Entidades
 {
     static class Program
     {

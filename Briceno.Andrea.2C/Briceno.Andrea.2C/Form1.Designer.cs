@@ -1,5 +1,5 @@
 ﻿
-namespace Briceno.Andrea._2C
+namespace ParcialEstacionamiento
 {
     partial class Form1
     {

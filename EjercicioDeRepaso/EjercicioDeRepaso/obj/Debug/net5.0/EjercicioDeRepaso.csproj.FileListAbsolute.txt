@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\bin\Debug\net5.0\EjercicioDeRepaso.deps.json
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\bin\Debug\net5.0\EjercicioDeRepaso.dll
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\bin\Debug\net5.0\ref\EjercicioDeRepaso.dll
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\bin\Debug\net5.0\EjercicioDeRepaso.pdb
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\obj\Debug\net5.0\EjercicioDeRepaso.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\obj\Debug\net5.0\EjercicioDeRepaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\obj\Debug\net5.0\EjercicioDeRepaso.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\obj\Debug\net5.0\EjercicioDeRepaso.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\obj\Debug\net5.0\EjercicioDeRepaso.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\obj\Debug\net5.0\EjercicioDeRepaso.dll
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\obj\Debug\net5.0\ref\EjercicioDeRepaso.dll
+C:\Users\Lenovo\source\repos\EjercicioDeRepaso\EjercicioDeRepaso\obj\Debug\net5.0\EjercicioDeRepaso.pdb

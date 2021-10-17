@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Briceno.Andrea.2C", "Briceno.Andrea.2C\Briceno.Andrea.2C.csproj", "{CF36629F-B9D0-46AA-9E0D-872271F017EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{4C225441-5BD0-47D6-B0DD-185ED9C056C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormEstacionamiento", "FormEstacionamiento\FormEstacionamiento.csproj", "{7BC80FCC-509F-4B3F-82A5-384DF4D5E1A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CF36629F-B9D0-46AA-9E0D-872271F017EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF36629F-B9D0-46AA-9E0D-872271F017EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF36629F-B9D0-46AA-9E0D-872271F017EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF36629F-B9D0-46AA-9E0D-872271F017EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C225441-5BD0-47D6-B0DD-185ED9C056C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C225441-5BD0-47D6-B0DD-185ED9C056C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C225441-5BD0-47D6-B0DD-185ED9C056C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C225441-5BD0-47D6-B0DD-185ED9C056C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC80FCC-509F-4B3F-82A5-384DF4D5E1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC80FCC-509F-4B3F-82A5-384DF4D5E1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC80FCC-509F-4B3F-82A5-384DF4D5E1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC80FCC-509F-4B3F-82A5-384DF4D5E1A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

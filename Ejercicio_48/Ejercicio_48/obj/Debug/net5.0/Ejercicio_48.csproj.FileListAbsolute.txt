@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\bin\Debug\net5.0\Ejercicio_48.deps.json
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\bin\Debug\net5.0\Ejercicio_48.dll
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\bin\Debug\net5.0\ref\Ejercicio_48.dll
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\bin\Debug\net5.0\Ejercicio_48.pdb
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\obj\Debug\net5.0\Ejercicio_48.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\obj\Debug\net5.0\Ejercicio_48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\obj\Debug\net5.0\Ejercicio_48.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\obj\Debug\net5.0\Ejercicio_48.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\obj\Debug\net5.0\Ejercicio_48.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\obj\Debug\net5.0\Ejercicio_48.dll
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\obj\Debug\net5.0\ref\Ejercicio_48.dll
+C:\Users\Lenovo\source\repos\Ejercicio_48\Ejercicio_48\obj\Debug\net5.0\Ejercicio_48.pdb

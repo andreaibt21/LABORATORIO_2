@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\LABORATORIO_2\Briceno.Andrea.2C\Briceno.Andrea.2C\obj\Debug\net5.0-windows\ParcialEstacionamiento.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\LABORATORIO_2\Briceno.Andrea.2C\Briceno.Andrea.2C\obj\Debug\net5.0-windows\Briceno.Andrea._2C.Form1.resources
+C:\Users\Lenovo\source\repos\LABORATORIO_2\Briceno.Andrea.2C\Briceno.Andrea.2C\obj\Debug\net5.0-windows\ParcialEstacionamiento.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\LABORATORIO_2\Briceno.Andrea.2C\Briceno.Andrea.2C\obj\Debug\net5.0-windows\ParcialEstacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\LABORATORIO_2\Briceno.Andrea.2C\Briceno.Andrea.2C\obj\Debug\net5.0-windows\ParcialEstacionamiento.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\LABORATORIO_2\Briceno.Andrea.2C\Briceno.Andrea.2C\obj\Debug\net5.0-windows\ParcialEstacionamiento.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\LABORATORIO_2\Briceno.Andrea.2C\Briceno.Andrea.2C\obj\Debug\net5.0-windows\ParcialEstacionamiento.csproj.CoreCompileInputs.cache
