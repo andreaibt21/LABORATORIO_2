@@ -1,0 +1,12 @@
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\bin\Debug\net5.0\Ejercico_67_Temporizador.deps.json
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\bin\Debug\net5.0\Ejercico_67_Temporizador.dll
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\bin\Debug\net5.0\ref\Ejercico_67_Temporizador.dll
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\bin\Debug\net5.0\Ejercico_67_Temporizador.pdb
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\obj\Debug\net5.0\Ejercico_67_Temporizador.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\obj\Debug\net5.0\Ejercico_67_Temporizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\obj\Debug\net5.0\Ejercico_67_Temporizador.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\obj\Debug\net5.0\Ejercico_67_Temporizador.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\obj\Debug\net5.0\Ejercico_67_Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\obj\Debug\net5.0\Ejercico_67_Temporizador.dll
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\obj\Debug\net5.0\ref\Ejercico_67_Temporizador.dll
+C:\Users\Andrea\source\repos\Ejercico_67_Temporizador\Ejercico_67_Temporizador\obj\Debug\net5.0\Ejercico_67_Temporizador.pdb

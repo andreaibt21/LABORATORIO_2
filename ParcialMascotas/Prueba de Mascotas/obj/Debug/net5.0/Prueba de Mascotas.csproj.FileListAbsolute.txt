@@ -1,0 +1,19 @@
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\Prueba de Mascotas.exe
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\Prueba de Mascotas.deps.json
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\Prueba de Mascotas.runtimeconfig.json
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\Prueba de Mascotas.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\Prueba de Mascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\ref\Prueba de Mascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\Prueba de Mascotas.pdb
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\ParcialMascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\bin\Debug\net5.0\ParcialMascotas.pdb
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.csproj.CopyComplete
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\ref\Prueba de Mascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.pdb
+C:\Users\Andrea\source\repos\ParcialMascotas\Prueba de Mascotas\obj\Debug\net5.0\Prueba de Mascotas.genruntimeconfig.cache

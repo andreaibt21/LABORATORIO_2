@@ -1,0 +1,11 @@
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\bin\Debug\net5.0\ParcialMascotas.deps.json
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\bin\Debug\net5.0\ParcialMascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\bin\Debug\net5.0\ref\ParcialMascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\bin\Debug\net5.0\ParcialMascotas.pdb
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\obj\Debug\net5.0\ParcialMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\obj\Debug\net5.0\ParcialMascotas.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\obj\Debug\net5.0\ParcialMascotas.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\obj\Debug\net5.0\ParcialMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\obj\Debug\net5.0\ParcialMascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\obj\Debug\net5.0\ref\ParcialMascotas.dll
+C:\Users\Andrea\source\repos\ParcialMascotas\ParcialMascotas\obj\Debug\net5.0\ParcialMascotas.pdb

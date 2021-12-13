@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercico_67_Temporizador/1.0.0": {
+        "runtime": {
+          "Ejercico_67_Temporizador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercico_67_Temporizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

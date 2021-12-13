@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Prueba de Mascotas/1.0.0": {
+        "dependencies": {
+          "ParcialMascotas": "1.0.0"
+        },
+        "runtime": {
+          "Prueba de Mascotas.dll": {}
+        }
+      },
+      "ParcialMascotas/1.0.0": {
+        "runtime": {
+          "ParcialMascotas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba de Mascotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParcialMascotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Avisame_Si_Cambias", "Ejercicio_Avisame_Si_Cambias\Ejercicio_Avisame_Si_Cambias.csproj", "{42457094-3E62-454F-A175-35848CCA350E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmAvisador", "FrmAvisador\FrmAvisador.csproj", "{B9B8F99B-2A69-4319-85E0-B9151FC280F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42457094-3E62-454F-A175-35848CCA350E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42457094-3E62-454F-A175-35848CCA350E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42457094-3E62-454F-A175-35848CCA350E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42457094-3E62-454F-A175-35848CCA350E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B8F99B-2A69-4319-85E0-B9151FC280F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B8F99B-2A69-4319-85E0-B9151FC280F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B8F99B-2A69-4319-85E0-B9151FC280F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B8F99B-2A69-4319-85E0-B9151FC280F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99031FD2-9CCB-477E-9B79-1650697327F4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.exe
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.deps.json
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.runtimeconfig.json
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.dll
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ref\ConsolaEventos.dll
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\bin\Debug\net5.0\ConsolaEventos.pdb
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.dll
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ref\ConsolaEventos.dll
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.pdb
+C:\Users\Andrea\source\repos\Ejemplo Eventos\ConsolaEventos\obj\Debug\net5.0\ConsolaEventos.genruntimeconfig.cache
